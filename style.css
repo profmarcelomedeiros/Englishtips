@@ -65,7 +65,7 @@ body {
         overflow-x: auto;
         gap: 10px;  
     }
-    .video-traduções img: :hover {
+    .traduções img: :hover {
 opacity: 1.0;
 heigth: 200px;
     }
