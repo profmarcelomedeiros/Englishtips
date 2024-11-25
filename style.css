@@ -63,6 +63,9 @@ body {
     .video-traduções{
         display: flex;
         overflow-x: auto;
-        gap: 10px;  
+        gap: 10px; 
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 50px; 
     }
     
