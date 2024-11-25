@@ -64,6 +64,9 @@ body {
         display: flex;
         overflow-x: auto;
         gap: 10px;  
-        img height: 200px;
+    }
+    .video-traduções img: :hover {
+opacity: 1.0;
+heigth: 200px;
     }
     
