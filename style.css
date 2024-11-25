@@ -60,4 +60,9 @@ body {
         display: flex;
         justify-content: center;
     }
+    .video-traduções{
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;  
+    }
     
