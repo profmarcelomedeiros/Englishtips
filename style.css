@@ -64,5 +64,6 @@ body {
         display: flex;
         overflow-x: auto;
         gap: 10px;  
+        img height: 200px;
     }
     
