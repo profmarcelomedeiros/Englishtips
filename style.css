@@ -59,8 +59,10 @@ body {
         padding-top: 80px;
         display: flex;
         justify-content: center;
+        overflow-x: auto;
+        gap: 10px
     }
-    .video-traduções{
+    .traduções{
         display: flex;
         overflow-x: auto;
         gap: 10px;
