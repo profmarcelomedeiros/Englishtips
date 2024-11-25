@@ -59,6 +59,7 @@ body {
         padding-top: 80px;
         display: flex;
         justify-content: center;
+        img: height: 200px
     }
     .video-traduções{
         display: flex;
