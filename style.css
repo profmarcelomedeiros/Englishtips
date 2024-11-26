@@ -22,7 +22,8 @@ body {
         }
     
     .categoria-textos {
-        margin-right: 5%;
+        margin-right: 10%;
+        margin-left: 10%;
     }
     h1 {
     font-size: 40px ;
