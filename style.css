@@ -9,7 +9,7 @@ body {
     header{
     border-bottom: solid 2px rgb(219, 28, 28);
     padding: 20px;
-    font-size: 80px;
+    font-size: 60px;
     color: rgb(243, 237, 235);
     
     }
@@ -24,7 +24,7 @@ body {
     .categoria-textos {
         margin-right: 10%;
         margin-left: 10%;
-        font-size: 80PX;
+        font-size: 60PX;
     }
     h1 {
     font-size: 40px ;
