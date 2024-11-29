@@ -9,7 +9,7 @@ body {
     header{
     border-bottom: solid 2px rgb(219, 28, 28);
     padding: 20px;
-    font-size: 32px;
+    font-size: 80px;
     color: rgb(243, 237, 235);
     
     }
@@ -30,7 +30,7 @@ body {
     }
     
     p{
-        font-size: 40px;
+        font-size: 80px;
     }
     .categoria-vídeos {
     display: flex;
